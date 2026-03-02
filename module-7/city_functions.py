@@ -1,3 +1,9 @@
+# ----------------------------------------------
+# Author: Amanda Brock
+# Date: February 22, 2026
+# Assignment: Module 7.2
+# Purpose of Code: stores function then calls it 3 times
+# ----------------------------------------------
 # makes language optional
 def city_country(city, country, population=None, language=None):
     """Return City, Country, optionally including population and language."""

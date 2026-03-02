@@ -1,5 +1,9 @@
-
-# test
+# ----------------------------------------------
+# Author: Amanda Brock
+# Date: February 22, 2026
+# Assignment: Module 7.2
+# Purpose of Code: tests the function in city_functions.py
+# ----------------------------------------------
 
 import unittest
 from city_functions import city_country
